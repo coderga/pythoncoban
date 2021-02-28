@@ -1,5 +1,6 @@
 von = 1000000000
 laisuat = 7/100
+
 # print(von)
 
 cont = 0
